@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="">
+ <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/MadFroggie/MadFroggie/main/DP.png">
 </picture>
 <!--
 **MadFroggie/MadFroggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
